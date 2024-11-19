@@ -5,3 +5,5 @@ Links:
 - https://www.theodinproject.com/lessons/foundations-introduction-to-web-development
 - https://www.theodinproject.com/lessons/foundations-motivation-and-mindset
 - https://www.theodinproject.com/lessons/foundations-asking-for-help
+- https://www.theodinproject.com/lessons/foundations-join-the-odin-community
+- https://www.theodinproject.com/lessons/foundations-computer-basics
